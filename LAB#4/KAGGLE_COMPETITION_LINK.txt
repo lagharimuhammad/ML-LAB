@@ -1,0 +1,6 @@
+Predicting Smartphone Addiction - ULIMA2
+link: https://www.kaggle.com/competitions/predicting-smartphone-addiction-ulima-2
+
+Predicting Loan Payback
+Playground Series - Season 5, Episode 11
+link: https://www.kaggle.com/competitions/playground-series-s5e11/overview
